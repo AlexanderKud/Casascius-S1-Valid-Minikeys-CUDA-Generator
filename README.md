@@ -33,3 +33,8 @@ nvcc -O3 -arch=sm_86 -o casascius_gen.exe main.cu
 
 # Use on pipe
 ./casascius_s1_gen -d 0 | brainflayer.......
+
+
+
+
+https://t.me/bitcoinethereumrecovery
